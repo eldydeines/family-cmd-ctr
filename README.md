@@ -12,20 +12,20 @@ This application is directed to any household. Anyone that lives with another hu
 
 ### Internal Data Sources
 - User Accounts
-- User Preferences
+- Household (HH) Preferences
 - Family Tasks
-- Saved and Voted Recipes
-- Family Links
+- Shopping Items
+- Recipes, Menus, Favorites
+- Family Links & References
+- Web Scraped Jokes
+- Web Scraped Quotes
 
 ### External Data Sources
-- GOOGLE DRIVE - A pull of latest photos from the last week. 
+- GOOGLE Photos - A pull of latest photos from the last week. 
 - GOOGLE CALENDAR - A pull of latest events and appointments on our calendar.
 - TWILIO SMS API - A trigger point to allow 
 - EDAMAM RECIPE SEARCH - A set of recommended recipes that can be used to determine the family's request for next week's menu.
 - Weather.Gov - The daily forecast based on location preference. 
-- Jokes.One - A daily joke to be added to the application.
-- Inspiration GoProgram - A daily inspiration to be added to the applicaiton.
-
 
 ## Approach
 The following list is the approach taken to develop this full stack application. 
@@ -81,7 +81,7 @@ For fun!
 - As a family member, I would like to see a quote of the day so that we can inspire the family.
 - As a family member, I would like to have a laugh so that we have a little humor in the day. 
 
-Resources
+Quick Links and References
 - As a family member, I would like to have quick phone numbers on standby so that everyone has access (like granny's number). 
 - As a family member, I would like a list of "often visited" links available so we can get a food order in quickly. 
 
@@ -91,10 +91,9 @@ Notifications
 
 Weather
 - As a family member, I would like to see weather alerts so that I can dress appropriately.
-
-Mobile Response
-- As a family member, I would like to access a mobile friendly website so that I can access this on my phone. 
+ 
 
 ## Stretch Goals
 - Possibly build on AWS 
 - Possibly build in Kotlin to deploy on Google Play
+- Add Household Recipe References
