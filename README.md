@@ -2,12 +2,12 @@
 As in many households, it seems like there are so many things to manage through-out the week.  The Family Command Center Application is one stop show for managing your household.  The application will locate so many different resources into one central location.  An ongoing menu that you can update. A list of assigned chores/tasks to family members with statuses.  A quote of the day to inspire the family and a joke for laughter. A list of important links like school calendar or an ordering link to your favorite pizza joint. Of course, we should also have a shopping list that everyone can add to. A component to show today's forecast. Ultimately, this application will be displayed on a monitor as we leave or come into our home. 
 
 ## Heroku Deployment
-https://family-command-center.surge.sh/ (FRONTEND)
-https://family-command-center.herokuapp.com/ (BACKEND)
+ - https://family-command-center.surge.sh/ (FRONTEND)
+ - https://family-command-center.herokuapp.com/ (BACKEND)
 
 ## Family Command Center Repos (PRIVATE)
-https://github.com/eldydeines/fcc-frontend
-https://github.com/eldydeines/fcc-backend
+ - https://github.com/eldydeines/fcc-frontend
+ - https://github.com/eldydeines/fcc-backend
 
 ## Full Stack Application
 ### TECH STACK: REACT JS, NODE JS, EXPRESS JS, POSTGRESQL
